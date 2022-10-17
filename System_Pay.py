@@ -18,7 +18,6 @@ op6 = f"{cor2}[{cor1}6{fch}{cor2}]{cor6}"
 op7 = f"{cor2}[{cor1}7{fch}{cor2}]{cor6}"
 op8 = f"{cor2}[{cor1}8{fch}{cor2}]{cor6}"
 op9 = f"{cor2}[{cor1}9{fch}{cor2}]{cor6}"
-
 os.system("clear")
 print(f""" 
 {cor5}        ℙ𝔸𝕐 𝕊𝕐𝕊𝕋𝔼𝕄{fch}
